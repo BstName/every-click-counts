@@ -2,7 +2,7 @@ Plugin for YOURLS 1.5+: Every Click Counts
 
 # What for
 
-This plugin, aptly named "Every Click Counts", is for counting every click. That is, including multiple clicks for the same client. This is done by simply not caching the 301 redirects. 
+This plugin, aptly named "Every Click Counts", is for counting every click. That is, including multiple clicks for the same client. This is done by simply not caching the HTTP 301 redirects. 
 
 # How to
 
