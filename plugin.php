@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Every Click Counts 
-Plugin URI: http://github/bstname/every-click-counts
+Plugin URI: https://github.com/bstname/every-click-counts
 Description: Plugin to count every click, that is, including multiple clicks for the same client.
 Version: 1.0
 Author: BestNa.me Labs (@bstname)
